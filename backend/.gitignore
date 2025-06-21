@@ -1,4 +1,4 @@
-# Node dependencies
+# Node.js dependencies
 node_modules/
 
 # Environment variables
@@ -19,13 +19,13 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Build or output folders
+# Output or build folders (in case you add build steps later)
 dist/
 build/
 
-# Coverage/testing (if used later)
+# Testing or coverage (if added later)
 coverage/
 
-# Process manager (optional)
+# Process manager (optional, like PM2)
 *.pid
 pids/
